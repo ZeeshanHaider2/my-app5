@@ -1,0 +1,18 @@
+.carousel-indicators li {
+  background-color: gray !important;
+  position: relative !important;
+  bottom: 2em !important;
+  width: 1000px !important;
+  height: 05px !important;
+  border-radius: 0% !important;
+}
+
+.carousel-indicators .active {
+  background-color: white !important;
+}
+
+.carousel {
+  margin: 20vh;
+  width: 60vw;
+  text-align: center;
+}
